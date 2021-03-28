@@ -17,7 +17,11 @@
 # In[1]:
 
 
+<<<<<<< HEAD
 paintings = ["The Two Fridas", "My Dress Hangs Here", "Tree of Hope", "Self Portrait With Monkeys"] #test with Tahava
+=======
+paintings = ["The Two Fridas", "My Dress Hangs Here", "Tree of Hope", "Self Portrait With Monkeys"]
+>>>>>>> 7ad455a8948ee1d657c91023db1d4c0339372c17
 
 
 # ## Task 2
